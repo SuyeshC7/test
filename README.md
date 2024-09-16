@@ -1,7 +1,3 @@
 echo "# SuyeshC7" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SuyeshC7/SuyeshC7.git
-git push -u origin main
