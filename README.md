@@ -1,7 +1,4 @@
-echo "# SuyeshC7" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SuyeshC7/SuyeshC7.git
-git push -u origin main
+I am Suyesh Nath Kharel, a passionate Software Engineer from Nepal 🇳🇵.
+UnderGrad student at Texas International.
+Currently, I am freelancing as a Frontend Engineer.
+I write at @blackkspydo/blog.
